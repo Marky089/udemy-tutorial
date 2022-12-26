@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  margin-right: 40px; */
+}
+
+aside {
+  border-top: 5px solid #040704;
+  border-right: 5px solid #040704;
+  border-left: 5px solid #040704;
+  border-bottom: 5px solid #040704;
+  width: 850px;
+  height: 650px;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: auto;
+  
+}
+
+
+body {
+  font-family: sans-serif;
+  /* border-radius: 5px solid #040704; */
+}
+
+.center {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 20px;
+  background-color:#f7f7f7;
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+.price {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 0px;
+
+}
+.shipping{
+  text-transform: uppercase;
+  color:#dcdcdc;
+  margin-bottom: 10px;
+}
+.product-d {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+a:link{
+  text-decoration: underline;
+  color:black;
+}
+a:visited {
+  text-decoration: underline;
+  color:black;
+}
+a:hover{
+  text-decoration: none;
+}
+a:active {
+  text-decoration: underline;
+}
+
+.description-list {
+  list-style-type: square;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+/* button {
+  background-color: #000;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+button:hover {
+  color:#000;
+  background-color: #fff;
+} */
+
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  width: 100%;
+  padding: 18px;
+  text-transform: uppercase;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+/* .img-post {
+  margin: 0 auto;
+} */
+.container {
+  margin: 0 auto;
+}
+
+/* .more-info {
+  margin-bottom: 20px;
+} */
+
+.description-dress {
+  margin-bottom: 10px;
+}
+
+.more-info {
+  margin-bottom: 10px;
+}
+
+.desc-1{
+  margin-bottom: 10px;
+}
+.desc-2{
+  margin-bottom: 10px;
+}
+.desc-3{
+  margin-bottom: 50px;
+}
